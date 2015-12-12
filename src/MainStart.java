@@ -1,4 +1,4 @@
-package Start;
+
 
 import CombinatorialOptimization.GA;
 import Core.City;
@@ -12,7 +12,7 @@ public class MainStart {
 		City city = new City(60, 200);
 		TourManager.addCity(city);
 		City city2 = new City(180, 200);
-		TourManager.addCity(city2);
+		TourManager.addCity(city2);	
 		City city3 = new City(80, 180);
 		TourManager.addCity(city3);
 		City city4 = new City(140, 180);
